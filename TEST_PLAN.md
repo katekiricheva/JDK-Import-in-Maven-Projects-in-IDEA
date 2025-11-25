@@ -27,9 +27,6 @@ Multi-module Maven project (override):
 - Java version override: parent via `<plugin>` `<source>` and `<target>`, child via `<properties>` `<maven.compiler.release>`
 - Java version override: parent via `<plugin>` `<release>`, child via `<properties>` `<maven.compiler.source>` and `<maven.compiler.target>`
 
-Multi-module Maven project (toolchain):
-- Java version set via `toolchains.xml`
-
 ## Criteria for Test Completion
 All test cases have been successfully completed, and no critical defects have been found. All critical defects have been fixed and retested, testing completed as planned.
 
