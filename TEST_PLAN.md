@@ -36,7 +36,8 @@ All test cases have been successfully completed, and no critical defects have be
 ## Test Environment
 IntelliJ IDEA 2025.2.2 (Community Edition)<br>
 Apache Maven 3.9.11<br>
-Java version: 24.0.2
+Maven Runtime JDK: 24.0.2<br>
+JDKs installed on the system: 23, 24, 25
 
 ## Responsible Parties
 Tester: Ekaterina Kiricheva<br>
